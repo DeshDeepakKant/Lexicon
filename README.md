@@ -11,7 +11,6 @@ Welcome to the **Wordle Game**! This README file provides all the necessary info
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Features](#features)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
