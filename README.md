@@ -50,23 +50,26 @@ Welcome to the **Wordle Game**! This README file provides all the necessary info
 
 To play the Wordle   Game locally, follow these steps:
 
-1. **  the Repository**:
-   ```bash
-   git   https://github.com/yourusername/wordle- .git
-    ```   
+1. **The Repository**:
+  ```bash
+  git clone https://github.com/yourusername/wordle-clone.git
+  ```   
 
 2. ** Navigate to the Project Directory:**:
   ```bash
   cd wordle-clone
+  ```   
 
 
 3. **Install Dependencies:**
   ```bash
 npm install
+  ```   
 
 
 4. **Run the Game:**:
   ```bash
 npm start
+  ```   
 
 
