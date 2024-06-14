@@ -70,6 +70,39 @@ npm install
 4. **Run the Game:**:
   ```bash
 npm start
-  ```   
+  ```
+
+## How to Play
+
+### Launch the Game:
+Open your web browser and go to [http://localhost:3000](http://localhost:3000) if you are using the web-based version.
+
+### Play Online:
+To play online, visit our website at [https://github.com/DeshDeepakKant/wordle](https://github.com/DeshDeepakKant/wordle) and follow the on-screen instructions to start the game.
+
+### Make a Guess:
+Type in a valid 5-letter word and press "Enter".
+
+### Check the Feedback:
+The game will provide feedback by changing the colors of the letters in your guess.
+
+### Continue Guessing:
+Use the feedback to make better guesses and try to find the correct word within 6 attempts.
+
+
+
+## Features
+
+- **Responsive Design:** The game is optimized for both desktop and mobile devices.
+- **Keyboard Input:** Use your keyboard to enter guesses and navigate the game.
+- **Real-time Feedback:** Immediate color-coded feedback for each guess.
+- **Word Validation:** Ensures that only valid 5-letter words are accepted.
+- **Customization:** Easily modify the word list and other settings to customize your game experience.
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
 
 
