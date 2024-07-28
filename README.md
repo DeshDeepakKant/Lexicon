@@ -1,6 +1,6 @@
-# Wordle Game
+# Lexicon
 
-Welcome to the **Wordle Game**! This README file provides all the necessary information to get started with the game, understand its rules, and explore its features. Let's dive in!
+Welcome to the **Lexicon**! This README file provides all the necessary information to get started with the game, understand its rules, and explore its features. Let's dive in!
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -15,7 +15,7 @@ Welcome to the **Wordle Game**! This README file provides all the necessary info
 
 ## Introduction
 
-**Wordle Game** is a fun and engaging word puzzle game inspired by the popular Wordle game. The objective is to guess a hidden 5-letter word within 6 attempts. The game provides feedback on each guess, helping you inch closer to the correct word with each try.
+**Lexicon Game** is a fun and engaging word puzzle game inspired by the popular Lexicon game. The objective is to guess a hidden 5-letter word within 6 attempts. The game provides feedback on each guess, helping you inch closer to the correct word with each try.
 
 ## Game Rules
 
@@ -47,16 +47,16 @@ Welcome to the **Wordle Game**! This README file provides all the necessary info
 
 ## Installation
 
-To play the Wordle   Game locally, follow these steps:
+To play the Lexicon   Game locally, follow these steps:
 
 1. **The Repository**:
   ```bash
-  git clone https://github.com/yourusername/wordle-clone.git
+  git clone https://github.com/yourusername/Lexicon-clone.git
   ```   
 
 2. ** Navigate to the Project Directory:**:
   ```bash
-  cd wordle-clone
+  cd Lexicon-clone
   ```   
 
 
@@ -77,7 +77,7 @@ npm start
 Open your web browser and go to [http://localhost:3000](http://localhost:3000) if you are using the web-based version.
 
 ### Play Online:
-To play online, visit our website at [https://github.com/DeshDeepakKant/wordle](https://github.com/DeshDeepakKant/wordle) and follow the on-screen instructions to start the game.
+To play online, visit our website at [https://github.com/DeshDeepakKant/Lexicon](https://github.com/DeshDeepakKant/Lexicon) and follow the on-screen instructions to start the game.
 
 ### Make a Guess:
 Type in a valid 5-letter word and press "Enter".
